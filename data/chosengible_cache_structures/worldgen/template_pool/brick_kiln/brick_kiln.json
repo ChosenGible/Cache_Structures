@@ -9,6 +9,24 @@
         "processors": "chosengible_cache_structures:brick_kiln/brick_kiln_weathering",
         "projection": "rigid"
       }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "chosengible_cache_structures:brick_kiln/brick_kiln_b",
+        "processors": "chosengible_cache_structures:brick_kiln/brick_kiln_weathering",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "chosengible_cache_structures:brick_kiln/brick_kiln_c",
+        "processors": "chosengible_cache_structures:brick_kiln/brick_kiln_weathering",
+        "projection": "rigid"
+      }
     }
   ]
 }
